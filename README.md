@@ -1,13 +1,13 @@
 # Tarea 3: EjercicioMVC - Workshop Armado
 
 # Objetivo
-Tomando como referencia los recursos provistos en la carpeta compartida en OneDrive, se debe implementar el ejercicio MVC y además, deployarlo en la nube. 
+Tomando como referencia los recursos provistos en la carpeta compartida en OneDrive, se debe implementar el ejercicio MVC Workshop Armado y además, deployarlo en la nube. 
 
 # Recursos
 ### Guía de Armado
 - https://www.youtube.com/watch?v=IYJcbHebpFg
 - https://www.youtube.com/watch?v=f7stNwnwMMg&feature=youtu.be
-- 
+  
 ### Guía de Etiquetas HTML
 - https://www.w3schools.com/html/
 
